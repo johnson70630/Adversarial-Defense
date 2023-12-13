@@ -3,4 +3,4 @@ This project was part of the AI course's poster session, focusing on the purific
 
 ## [poster session video](https://www.youtube.com/watch?v=1pyfJ1MkRGo&t=57s)
 
-## [public code](https://drive.google.com/drive/folders/1fkCfwQb_DT3DPH6-osgNwtI0ifQ6pasz)
+## [public code & poster](https://drive.google.com/drive/folders/1fkCfwQb_DT3DPH6-osgNwtI0ifQ6pasz)
